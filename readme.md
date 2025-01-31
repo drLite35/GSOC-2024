@@ -37,5 +37,5 @@ The API documentaiton of FreeCAD is generated with doxygen from the docstrings c
 | **[Week 3-4](https://medium.com/@principalquantum30/gsoc-with-sugarlabs-coding-phase-ii-week-3-4-1db73480b68d)**                |
 | **[Week 5-6](https://medium.com/@principalquantum30/gsoc-with-sugarlabs-coding-phase-iii-week-5-6-8745a19b2fd3)**               |
 | **[Week 7-8](https://medium.com/@principalquantum30/gsoc-with-sugarlabs-coding-phase-iv-week-7-8-65a09e0ad623)**              |
-| **[Week 9-10](Sugarlabs/Final-Report.md)**               |
-| **[Week 11-12](Sugarlabs/Final-Report.md)**             | 
+| **[Week 9-10](https://github.com/drLite35/GSOC-2024/blob/main/SugarLabs/Final-Report.md)**               |
+| **[Week 11-12](https://github.com/drLite35/GSOC-2024/blob/main/SugarLabs/Final-Report.md)**             | 
